@@ -27,7 +27,7 @@ My Buddy is an app that displays list of your friends name with a tag line.
   
 ## Application output
 
-<img src="application_output_images/my_buddy_app.png" height=400>
+<img src="app_output/my_buddy_app.png" height=400>
   
 
 ## Connect with me through
