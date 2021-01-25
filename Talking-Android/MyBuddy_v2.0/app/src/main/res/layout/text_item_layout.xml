@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:backgroundTint="@color/cardview_dark_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="68dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/buddy_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:text="@string/buddy_name"
+            android:layout_marginStart="8dp"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textAlignment="textStart" />
+
+        <TextView
+            android:id="@+id/buddy_tag_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/buddy_tag_line"
+            android:layout_marginStart="8dp"
+            android:textColor="#7A7A7A"
+            android:textSize="12sp"
+            android:textStyle="normal"
+            android:textAlignment="textStart" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
