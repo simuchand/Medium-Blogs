@@ -58,7 +58,7 @@ class BuddyAdapter(
     }
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
-        when(dataset[position].ViewType) {
+        when (dataset[position].ViewType) {
             VIEW_TYPE_TEXT -> (holder as TextViewHolder).bind(position)
             VIEW_TYPE_IMAGE -> (holder as ImageViewHolder).bind(position)
         }
@@ -71,5 +71,4 @@ class BuddyAdapter(
     override fun getItemCount(): Int {
         return dataset.size
     }
-
 }

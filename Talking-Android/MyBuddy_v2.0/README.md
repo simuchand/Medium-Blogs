@@ -10,7 +10,8 @@ My Buddy v2.0 is an improvisation of My Buddy v1.0 app. This time with multiple 
 
   * RecyclerView - An Overview | Series 01 | [ReadNow](https://simuchand.medium.com/recyclerview-an-overview-447fee7b0847)
   * RecyclerView - A Deep Dive | Series 02 | [Read Now](https://medium.com/talking-android/recyclerview-fd090a0229b9)
-  * RecyclerView - With Multiple View Type | Series 03 | Read Now
+  * RecyclerView - With Multiple View Type | Series 03 | [Read Now](https://medium.com/talking-android/recyclerview-multiple-view-type-abb9c0490ed5)
+  * RecyclerView - With Nested RecyclerView | Series 04 | Read Now
 
 
 ## Getting-Started

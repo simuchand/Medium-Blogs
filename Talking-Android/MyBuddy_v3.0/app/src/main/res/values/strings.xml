@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Buddy V3.0</string>
+    <string name="buddy_name">Buddy Name</string>
+    <string name="buddy_tag_line">Buddy Tag line</string>
+    <string name="birthday_title">Birthday</string>
+    <string name="birthday_content">| Birthday Date</string>
+    <string name="first_meet_title">First Meet Date</string>
+    <string name="first_meet_content">| First Meet Date</string>
+    <string name="meet_place_title">Meet Place Date</string>
+    <string name="meet_place_content">Meet Place Date</string>
+    <string name="upcoming_event_title">Upcoming Events</string>
+    <string name="upcoming_event_content">| Upcoming events</string>
+
+
+    <string name="buddy_name_1">
+        Buddy Name 1
+    </string>
+    <string name="buddy_tag_line_1">
+        Tag line for buddy name 1
+    </string>
+
+    <string name="buddy_name_2">
+        Buddy Name 2
+    </string>
+    <string name="buddy_tag_line_2">
+        Tag line for buddy name 2
+    </string>
+
+    <string name="buddy_name_3">
+        Buddy Name 3
+    </string>
+    <string name="buddy_tag_line_3">
+        Tag line for buddy name 3
+    </string>
+
+    <string name="buddy_name_4">
+        Buddy Name 4
+    </string>
+    <string name="buddy_tag_line_4">
+        Tag line for buddy name 4
+    </string>
+
+    <string name="buddy_name_5">
+        Buddy Name 5
+    </string>
+    <string name="buddy_tag_line_5">
+        Tag line for buddy name 5
+    </string>
+
+    <string name="buddy_name_6">
+        Buddy Name 6
+    </string>
+    <string name="buddy_tag_line_6">
+        Tag line for buddy name 6
+    </string>
+
+    <string name="buddy_name_7">
+        Buddy Name 7
+    </string>
+    <string name="buddy_tag_line_7">
+        Tag line for buddy name 7
+    </string>
+
+    <string name="buddy_name_8">
+        Buddy Name 8
+    </string>
+    <string name="buddy_tag_line_8">
+        Tag line for buddy name 8
+    </string>
+
+    <string name="buddy_name_9">
+        Buddy Name 9
+    </string>
+    <string name="buddy_tag_line_9">
+        Tag line for buddy name 9
+    </string>
+
+    <string name="buddy_name_10">
+        Buddy Name 10
+    </string>
+    <string name="buddy_tag_line_10">
+        Tag line for buddy name 10
+    </string>
+
+</resources>
