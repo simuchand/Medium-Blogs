@@ -29,7 +29,7 @@ My Buddy v3.0 is an improvisation of My Buddy v1.0 app. This time with nested Re
   
 ## Application output
 
-<img src="app_output/my_buddy_app.png" height=400>
+<img src="app_output/my_buddy_app.jpeg" height=400>
   
 
 ## Connect with me through
